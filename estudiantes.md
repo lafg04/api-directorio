@@ -8,3 +8,5 @@
 ---
 ### Firmas Aprobadas:
 - **Teacher Dev** | Arquitecto de Software | Nicaragua
+
+- **AllanGrc** | Estudiante | Nicaragua
