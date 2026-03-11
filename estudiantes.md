@@ -8,4 +8,5 @@
 ---
 ### Firmas Aprobadas:
 - **Teacher Dev** | Arquitecto de Software | Nicaragua
-Jorge Mendoza
+julio guadamuz
+- **Walter Díaz** | Ingeniero de Sistemas 
