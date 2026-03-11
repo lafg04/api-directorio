@@ -8,6 +8,7 @@
 ---
 ### Firmas Aprobadas:
 - **Teacher Dev** | Arquitecto de Software | Nicaragua
+Yuri Salazar Romero
 IAN
 julio guadamuz
 - **Walter Díaz** | Ingeniero de Sistemas 
