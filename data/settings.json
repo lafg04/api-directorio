@@ -1,0 +1,6 @@
+{
+  "app": "api-directorio",
+  "port": 3000,
+  "tema": "neon",
+  "version": "1.0"
+}
