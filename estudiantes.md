@@ -8,3 +8,4 @@
 ---
 ### Firmas Aprobadas:
 - **Teacher Dev** | Arquitecto de Software | Nicaragua
+- **Andy Dávila** | Ingeniería | Nicaragua
