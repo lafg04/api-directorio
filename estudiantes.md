@@ -9,3 +9,5 @@
 ### Firmas Aprobadas:
 - **Teacher Dev** | Arquitecto de Software | Nicaragua
 IAN
+julio guadamuz
+- **Walter Díaz** | Ingeniero de Sistemas 
