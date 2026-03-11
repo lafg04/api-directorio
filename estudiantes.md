@@ -8,4 +8,4 @@
 ---
 ### Firmas Aprobadas:
 - **Teacher Dev** | Arquitecto de Software | Nicaragua
-- **Estudiante Git**  |Desarrollador de Software | Nicaragua
+- **Walter Díaz** | Ingeniero de Sistemas 
