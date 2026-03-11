@@ -6,5 +6,5 @@
 3. Utiliza la nomenclatura de commits enseñada en clase (`feat:`).
 
 ---
-### Firmas Aprobadas:
+### Firmas Aprobadas: Juan Carlos Rodriguez Reyes
 - **Teacher Dev** | Arquitecto de Software | Nicaragua
