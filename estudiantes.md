@@ -8,4 +8,7 @@
 ---
 ### Firmas Aprobadas:
 - **Teacher Dev** | Arquitecto de Software | Nicaragua
-Ethel Hernández
+Yuri Salazar Romero
+IAN
+julio guadamuz
+- **Walter Díaz** | Ingeniero de Sistemas 
