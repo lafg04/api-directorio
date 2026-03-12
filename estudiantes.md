@@ -10,3 +10,4 @@
 - **Teacher Dev** | Arquitecto de Software | Nicaragua
 
 - **AllanGrc** | Estudiante | Nicaragua
+- **Andy Dávila** | Ingeniería | Nicaragua
