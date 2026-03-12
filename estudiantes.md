@@ -12,4 +12,4 @@ Yuri Salazar Romero
 IAN
 julio guadamuz
 - **Walter Díaz** | Ingeniero de Sistemas 
-Marvin Fergunson | Ingeniero en Sistemas | Nicaragua
+Marvin Fergunson | Ingeniero en Sistemas | Nicaragua, managua
